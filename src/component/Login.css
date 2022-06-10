@@ -1,0 +1,31 @@
+#main{
+    border: 2px solid black;
+    width: 500px;
+    background-color: aqua;
+}
+#mainOne{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 700px;
+}
+.uiform{
+    /* border: 2px solid black; */
+    margin: 5%;
+    padding: 10%;
+}
+.field{
+    border: 2px solid black;
+    margin: 2%;
+    padding: 4%;
+    
+}
+#mainButton{
+    margin: 12%;
+    padding: 3%;
+    background-color: blue;
+    color: antiquewhite;
+    border-radius: 12px;
+
+
+}
